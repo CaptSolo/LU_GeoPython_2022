@@ -1,2 +1,2 @@
-# LU_GeoPython_2022
+# LU GeoPython 2022
 Introductory Python course at the University of Latvia (for geoinformatics students)
